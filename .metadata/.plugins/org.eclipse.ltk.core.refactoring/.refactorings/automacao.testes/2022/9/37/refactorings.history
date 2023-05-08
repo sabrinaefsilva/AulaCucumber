@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;testes.barraDePesquisaTeste&apos; to &apos;BarraDePesquisaTeste&apos;&#x0D;&#x0A;- Original project: &apos;automacao.testes&apos;&#x0D;&#x0A;- Original element: &apos;testes.barraDePesquisaTeste&apos;&#x0D;&#x0A;- Renamed element: &apos;testes.BarraDePesquisaTeste&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;barraDePesquisaTeste&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/&lt;testes{barraDePesquisaTeste.java[barraDePesquisaTeste" matchStrategy="1" name="BarraDePesquisaTeste" qualified="false" references="true" similarDeclarations="false" stamp="1662424160862" textual="false" version="1.0"/>
+</session>

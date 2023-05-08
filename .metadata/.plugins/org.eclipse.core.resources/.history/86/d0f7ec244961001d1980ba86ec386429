@@ -1,0 +1,23 @@
+package testes;
+
+import org.junit.Before;
+import org.junit.Test;
+
+import metodos.Metodos;
+
+public class Testes {
+
+
+
+		@Before
+		public void iniciarTeste() {
+			Metodos.abrirNavegador(false);
+		}
+
+		@Test
+		public void teste() {
+			System.out.println("Teste executado com sucesso ");
+		}
+
+	}
+

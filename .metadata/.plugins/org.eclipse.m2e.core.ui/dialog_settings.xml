@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\Sabrina\eclipse-workspace\automacao.unidas"/>
+			<item value="C:\Users\Sabrina\eclipse-workspace\projeto.correios.Ui"/>
+			<item value="C:\Users\Sabrina\Documents\segundogit\projeto.git"/>
+			<item value="C:\Users\Sabrina\eclipse-workspace\automacao.formulario"/>
+			<item value="C:\Users\Sabrina\eclipse-workspace\saucedemo.ui"/>
+			<item value="C:\Users\Sabrina\eclipse-workspace\regressao.saucedemo\src\test\java\metodos\LoginTeste.java"/>
+			<item value="C:\Users\Sabrina\eclipse-workspace\regressao.saucedemo"/>
+			<item value="C:\Users\Sabrina\eclipse-workspace\primeiro.projeto"/>
+			<item value="C:\Users\Sabrina\eclipse-workspace\regressivos-ui"/>
+			<item value="C:\Users\Sabrina\eclipse-workspace\livrariashelfbooks"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="com.saucedemo"/>
+			<item value="br.com.unidas"/>
+			<item value="br.com.correios"/>
+			<item value="br.com.e2etreinamentos"/>
+			<item value="com.demoqa"/>
+			<item value="br.com.parabank"/>
+			<item value="br.com.amazon"/>
+			<item value="com.parasoft.parabank"/>
+			<item value="br.com.e2etreinamntos"/>
+			<item value="br.com.livrariashelfbooks"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="automacao.saucedemo"/>
+			<item value="automacao.unidas2"/>
+			<item value="automacao.unidas"/>
+			<item value="projeto.correios.Ui"/>
+			<item value="projeto.cucumber"/>
+			<item value="automacao.regrecao"/>
+			<item value="automacao.formulario"/>
+			<item value="saucedemo.ui"/>
+			<item value="projeto.bora.manha"/>
+			<item value="regressao.saucedemo"/>
+			<item value="testes.parabank"/>
+			<item value="regressao.parabank"/>
+			<item value="regressivos-ui"/>
+			<item value="projeto.regressao.parabank"/>
+			<item value="automacao.testes"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

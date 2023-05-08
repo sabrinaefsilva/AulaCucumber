@@ -1,0 +1,32 @@
+package primeiro.projeto;
+
+public class SwitchCase {
+
+	public static void main(String[] args) {
+		int opcao = 1;
+		double valorProduto = 5000;
+		double saldoCliente = 1000;
+
+		switch (opcao) {
+		case 1:
+			System.out.println("Voce escolheu a opcao á Vista ");
+			if (saldoCliente >= valorProduto) {
+
+			} else {
+				System.out.println("Compra negada, procure seu banco.");
+			}
+			break;
+		case 2:
+			System.out.println("Voce escolheu a opcao Credito ");
+			break;
+		case 3:
+			System.out.println("Voce escolheu a opcao Boleto ");
+			break;
+		default:
+			System.out.println("opção Invalida");
+			break;
+		}
+
+	}
+
+}

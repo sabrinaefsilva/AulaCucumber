@@ -1,0 +1,24 @@
+package testes;
+
+import org.junit.Before;
+import org.junit.Test;
+
+import metodos.Metodos;
+
+public class Testes {
+
+	public class retirada {
+
+		@Before
+		public void iniciarTeste() {
+			Metodos.abrirNavegador(true);
+		}
+
+		@Test
+		public void teste() {
+			System.out.println("Teste executado com sucesso ");
+		}
+
+	}
+
+}

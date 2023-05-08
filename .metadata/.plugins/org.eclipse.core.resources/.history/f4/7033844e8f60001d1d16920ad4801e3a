@@ -1,0 +1,25 @@
+package testes;
+
+import org.junit.Before;
+import org.junit.Test;
+
+import elementos.Elementos;
+import metodos.Metodos;
+import runner.Executa;
+
+public class Testes extends Elementos {
+
+	public class retirada {
+		
+		Elementos elementos = new Elementos();
+		Metodos metodos = new Metodos();
+
+		@Before
+		public void iniciarTeste() {
+			Executa.abrirNavegador(true);
+		}
+
+		
+		}
+	
+}

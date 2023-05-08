@@ -1,0 +1,31 @@
+package primeiro.projeto;
+
+public class ElseIf {
+	public static void main(String[] args) {
+
+		boolean dinheiro = false;
+		boolean credito = true;
+		boolean boleto = false;
+		int preco = 10000;
+		
+		
+		
+		
+		System.out.println("E2E Treianamentos");
+
+		if (dinheiro) {
+			int desconto = 600;
+			preco = preco-desconto;
+			System.out.println("Parabens pela compra do carro no valor de " + preco);
+		} else if (credito) {
+			int juros = 1500;
+			preco = preco +juros;
+			System.out.println("Parabens pela compra do carro no valor de " + preco);
+		} else if (boleto) {
+			System.out.println("Parabens pela compra do carro no valor de " + preco);
+		} else {
+			System.out.println("Opcao de pagamento nao disponivel");
+		}
+
+	}
+}

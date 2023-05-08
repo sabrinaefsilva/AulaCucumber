@@ -1,0 +1,20 @@
+package primeiro.projeto;
+
+public class Variaveis {
+
+	public static void main(String[] args) {
+
+		int numeroInteiro = 32;
+
+		double numeroQuebrado = 1.72;
+
+		
+		System.out.println("Idade " + numeroInteiro);
+		System.out.println("Altura" + numeroQuebrado);
+		System.out.println("Sabrina Silva");
+		
+		
+		
+	}
+
+}

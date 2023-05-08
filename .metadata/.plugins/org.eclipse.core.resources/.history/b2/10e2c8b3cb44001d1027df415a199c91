@@ -1,0 +1,14 @@
+package primeiro.projeto;
+
+public class SegundoPrograma {
+
+	public static void main(String[] args) {
+	String nome = "E2E Treinamentos";
+	String curso = "Automaçãode testes";
+	
+	curso = "Java";
+	System.out.println(" O nome da escola é " + nome + ", Estou aprendendo " + curso);
+
+	}
+
+}

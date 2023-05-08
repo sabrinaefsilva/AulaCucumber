@@ -1,0 +1,21 @@
+package primeiro.projeto;
+
+public class Sinais1 {
+
+	public static void main(String[] args) {
+		int n1 = 10;
+		int n2 = 10;
+
+		if (n1 > n2) {
+			System.out.println(" N1 é maior que N2");
+		}
+		if (n1 < n2) {
+			System.out.println("N1 é menor que n2");
+		}
+		
+		if (n1 == n2 ) {
+			System.out.println("São iguais");
+		}
+	}
+
+}

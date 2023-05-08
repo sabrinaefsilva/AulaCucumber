@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;primeiro.projeto.swithcase&apos; to &apos;switchcase&apos;&#x0D;&#x0A;- Original project: &apos;primeiro.projeto&apos;&#x0D;&#x0A;- Original element: &apos;primeiro.projeto.swithcase&apos;&#x0D;&#x0A;- Renamed element: &apos;primeiro.projeto.switchcase&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;swithcase&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;primeiro.projeto{swithcase.java[swithcase" matchStrategy="1" name="switchcase" qualified="false" references="true" similarDeclarations="false" stamp="1659441646235" textual="false" version="1.0"/>
+</session>

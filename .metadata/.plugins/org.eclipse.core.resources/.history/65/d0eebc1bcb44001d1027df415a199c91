@@ -1,0 +1,11 @@
+package primeiro.projeto;
+
+public class SegundoPrograma {
+
+	public static void main(String[] args) {
+		System.out.println("Escola E2e TREINAMENTOS");
+		System.out.println("Curso de Java Mod 1");
+
+	}
+
+}
